@@ -1,0 +1,217 @@
+body{
+background-color:#EEEE;
+
+}
+
+
+.avetarb{
+    background-color: #00b5ec;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0, rgba(0, 0, 0, 0.4) 100%);
+    margin-top: auto;
+    height: 450px;
+    padding: 30px;
+    margin-left:  15px;
+    margin-right: 15px;
+    margin-top: 4px;
+
+}
+
+ img{ display: block;
+   margin: auto;
+   padding: 5px;
+   background-color: white;
+   border-radius: 50%;
+
+}
+
+ h4{
+   font-size: 42px;
+    font-family: serif;
+    font-weight: bolder;
+    color: white;
+    margin-left: 43%;
+
+ }
+
+ .options{
+   height: 35px;
+   color: #000000;
+   background-color: #fffffa;
+   width: auto;
+   padding: 13px;
+   margin-left: 9px;
+   font-size: 19px;
+   font-style: bold;
+   float: left;
+
+
+ }
+ #nn:hover{
+    cursor: default;
+    color: #00b5ec;
+ }
+
+ 
+ .menu{
+   background-color: white;
+   float: left;
+   margin-left: 15px;
+   width: 98%;
+ }
+
+.personal{
+   height: 382px;
+
+   background-color: white;
+
+}
+
+
+
+.divstyle{
+   margin-left: 22px;
+    padding-top: 1px;
+    margin-bottom: 20px; 
+
+}
+
+span{
+
+   font-size: 17px;
+   font-family: serif;
+   font-weight: bolder
+   
+}
+b, li ,h5{
+
+
+   font-size:14px;
+   font-family: serif;
+   font-weight: bolder;
+   color: darkgray;
+}
+article{
+font-size: 15px;
+font-weight: bold;
+font-family: serif;
+
+}
+
+.laguge{
+    height: 170px;
+   
+    background-color: white;
+margin-top: 30px;
+
+}
+.piography{
+   height: 280px;
+    width: 100%;
+    background-color: white;
+    clear: left;
+}
+.skills{
+clear: left;
+    height: 414px;
+    width: 100%;
+    background-color: white;
+    float: left;
+    margin-top: 25px;
+}
+p{
+font-size: 15px;
+font-style: bold;
+
+}
+
+.projectstyle{
+height:750px;
+   margin-left: 12px;
+   padding-top: 37px;
+   margin-bottom: 12px;
+   clear: left;
+}
+.div1{
+   height: 590px;
+   width: 21%;
+   float: left;
+   
+}
+
+.div2{
+   float: left;
+    width: 991px;
+    margin-left: 40px;
+
+}
+.persant{
+   border-radius: 4px;
+background-color: #cccccc;
+border: 1px solid #cccccc;
+width: 96%;
+height: 15px;
+
+}
+.projects{
+   background-color: white;
+   clear: left;
+   margin-top: 14px;
+   width: 99%;
+   height: 250px;
+   margin-left: 4px;
+   margin-bottom: 12px;
+   
+}
+
+table{
+   border-top: 3px solid #dee2e6;
+   height: 185px;
+   width: 100%;
+   border-bottom: 1px solid #E6ECF3 ;
+ }
+tr:nth-child(even){
+background-color:#f5f5f5;
+
+}
+tr:hover{
+   background-color:#f5f5f5 ;
+}
+.sittings{
+   background-color: white;
+   clear: left;
+   width: 99%;
+   height: 500xpx;
+}
+
+input[type=text]{
+margin-bottom: 10px;
+border: 1px solid #cccccc;
+border-radius: 4px;
+color: #555555;
+width: 940px;
+height: 22px;}
+input:focus{
+    
+   border-color: #66afe9;
+outline: 0;}
+ 
+
+.savebot{
+
+   font-size: 13px;
+   height: 28px;
+   font-family: monospace;
+   background-color: #428bca;
+   border: 1px solid transparent;
+   border-radius: 4px;
+   color: #ffffff;
+   border-color: #357ebd;
+
+} .savebot:hover{
+   background-color: #3276b1;
+   border-color: #285e8e;
+   outline: 0;}
+#ss{
+height: 70px;
+
+}
